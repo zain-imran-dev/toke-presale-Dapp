@@ -2,7 +2,10 @@
 
 A modern, secure, and feature-rich decentralized application for token presales with a beautiful React frontend and robust smart contracts.
 
-![Presale DApp Screenshot](https://i.imgur.com/example-screenshot.png)
+![Presale DApp Screenshot]
+![WhatsApp Image 2025-08-02 at 10 20 28_118a5a01](https://github.com/user-attachments/assets/71c9f7fe-15c4-4cdd-ad77-95130d894742)
+
+)
 
 ## ✨ Features
 
